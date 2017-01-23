@@ -1,6 +1,7 @@
 header {
       background: url('https://lh3.google.com/u/0/d/0B9gdNiZ6j026el9kckhJRWVtb0U=w1628-h850-iv1');
       background-size: cover;
+      text-align: center;
       font-family: sans-serif;
       color: white;
 }
@@ -10,7 +11,7 @@ img {
       border-radius: 20px;
 }
 body{
-      text-align: center;
+      text-align: left;
       font-family: arial;
 }
 li {
@@ -29,7 +30,6 @@ ul {
       font-size: 500%;
       -webkit-text-stroke-width: 2px;
       -webkit-text-stroke-color: black;
- 
 }
 a {
       color: white;
