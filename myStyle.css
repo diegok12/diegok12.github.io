@@ -10,9 +10,17 @@ img {
       border: 7px solid white;
       border-radius: 20px;
 }
+#center {
+      text-align: center;
+}
+
+#sub {
+      font-family: baskerville;
+}
 body{
       text-align: left;
       font-family: arial;
+      text-align: justify;
 }
 li {
        padding: 5px;
@@ -35,4 +43,10 @@ a {
       color: white;
       font-size: 150%;
       font-family: arial;
+}
+table {
+      border: 1px solid black;  
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
 }
